@@ -99,8 +99,12 @@
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=sd012gfhkhhvh&repo=EcoCulturalClub-NSEC" alt="EcoCulturalClub-NSEC" />
 </a>
 
+---
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
 
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown
