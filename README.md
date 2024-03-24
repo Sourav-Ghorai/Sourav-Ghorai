@@ -25,7 +25,7 @@
 [![Medium](https://img.shields.io/badge/Medium-%23000000?style=social&logo=medium)](https://medium.com/@anikadhikari) &ensp;
 [![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF?style=social&logo=hashnode)](https://hashnode.com/@anikadhikari) &ensp; -->
 
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" width="75"> Connect with me 
+## <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" width="75"> Connect with me 
 
   <a href="https://www.linkedin.com/in/souravghorai/">
     <img align="left" alt="Sourav Ghorai | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -170,10 +170,15 @@ CSS                      1 repo              █░░░░░░░░░░�
  Last Updated on 24/03/2024 13:32:02 UTC
 <!--END_SECTION:waka-->
 
+## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
+<p align="center">
+<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" />
+</p>
+
 ---
 
 <p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown
+  Together, let's turn dreams into code, challenges into triumphs, and ideas into innovation!🌟💻
   <br/>
    <br/>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
