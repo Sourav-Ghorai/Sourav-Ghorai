@@ -4,26 +4,103 @@
 
 <img align="right" src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNsdHowcTRweDk4dzczcWQ1eW1hcXhqZHlkNXl3NjNkZWNwazl0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' height='215'>
 
-- 👨🏻‍🎓 Currently persuing my B.Tech in CSE
-- 🔭 I’m currently working on Hackathons
-- 🌱 I’m currently learning ML + MERN Stack
+- 👨🏻‍🎓 Persuing my B.Tech in CSE
+- 🌱 I’m currently learning backend with JS
+- 👨‍💻 All of my open-source projects are available at [Sourav-Ghorai/projects](https://github.com/Sourav-Ghorai?tab=repositories)
 - 👯 I’m looking to collaborate on Creative Projects
-- 🥅 2024 Goals: Contribute more to Open Source projects
-<!-- - 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...-->
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/soham-das-15ab07174/)
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 💬 Ask me about **Programming 😉**
+- 📫 How to reach me **souravghorai.dev@gmail.com**
+<!-- - ⚡ Fun fact:  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sourav-Ghorai&label=Profile%20views&color=0e75b6&style=flat" alt="apu52" /> </p>
 
 ---
 
+<!-- ## <img src="https://media.giphy.com/media/dhGGpFEXFUN63MVaSR/giphy.gif" width="50"> Connect with me
+[![Dev](https://img.shields.io/badge/Dev-%230A0A0A?style=social&logo=dev.to)](https://dev.to/anikadhikari) &ensp;
+[![Static Badge](https://img.shields.io/badge/xdadevelopers-%23EA7100?style=social&logo=xdadevelopers)](https://forum.xda-developers.com/m/anikadhikari.12668517/) &ensp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231D9BF0?style=social&logo=twitter)](https://twitter.com/meanikadhikari) &ensp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin)](https://linkedin.com/in/anikadhikari) &ensp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram)](https://instagram.com/meanikadhikari) &ensp;
+[![Medium](https://img.shields.io/badge/Medium-%23000000?style=social&logo=medium)](https://medium.com/@anikadhikari) &ensp;
+[![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF?style=social&logo=hashnode)](https://hashnode.com/@anikadhikari) &ensp; -->
 
-<h2 align="left">Hi 👋! I'm Sourav</h2>
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="22px"> Connect with me 
+
+  <a href="https://www.linkedin.com/in/souravghorai/">
+    <img align="left" alt="Sourav Ghorai | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/SouravG1947">
+    <img align="left" alt="Sourav Ghorai | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://instagram.com/mr.sourav_2002">
+    <img align="left" alt="Sourav Ghorai | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:souravghorai.dev@gmail.com">
+    <img align="left" alt="Sourav Ghorai | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
+## <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="50"> Languages and Tools
+<!-- 
+// yet to learn --
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)   
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) 
+![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) 
+![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)  
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![AWS](https://img.shields.io/badge/aws-%23232F3E?style=for-the-badge&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+-->
+
+![C](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
 
 ###
 
+## <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sourav-Ghorai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sourav-Ghorai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -32,117 +109,6 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://instagram.com/mr.sourav_2002" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="ghoraisourav451@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/souravghorai/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/SouravG1947" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-
-<!-- 
-### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="22px">
-
-  <a href="https://www.linkedin.com/in/soham-das-15ab07174/">
-    <img align="left" alt="Soham Das | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/Soham__Das_">
-    <img align="left" alt="Soham Das | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/soham_das_/">
-    <img align="left" alt="Soham Das | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:sohamdas.nest@gmail.com">
-    <img align="left" alt="Soham Das | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
-
-
-<h2 align="center">
-  Here are some technologies I use at work:
-</h2>
-<p align="center">
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/nodejs.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/express.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/mongodb.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/postgre.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/css.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/js.png"></code> &nbsp;&nbsp;
-</p>
-
-<br/>
-
-<p align="center">
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/Webpack.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/unity.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/ar.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/vuforia.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/arcore.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/assets/extension.png"></code> &nbsp;&nbsp;
-</p>
-
-<br/> -->
 
 ---
 
