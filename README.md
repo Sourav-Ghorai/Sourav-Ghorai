@@ -25,7 +25,7 @@
 [![Medium](https://img.shields.io/badge/Medium-%23000000?style=social&logo=medium)](https://medium.com/@anikadhikari) &ensp;
 [![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF?style=social&logo=hashnode)](https://hashnode.com/@anikadhikari) &ensp; -->
 
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="22px"> Connect with me 
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" width="75"> Connect with me 
 
   <a href="https://www.linkedin.com/in/souravghorai/">
     <img align="left" alt="Sourav Ghorai | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
