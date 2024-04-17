@@ -116,7 +116,7 @@
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -147,15 +147,15 @@ Sunday                   40 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               7 hrs 51 mins       ██████████████████████░░░   89.43 % 
-Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+JavaScript               8 hrs 5 mins        ██████████████████████░░░   89.69 % 
+Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
 JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -171,7 +171,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2024 18:35:17 UTC
+ Last Updated on 17/04/2024 18:35:58 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
