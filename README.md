@@ -147,14 +147,13 @@ Sunday                   56 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      3 hrs 5 mins        █████████████████████████   99.63 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+C++                      1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -170,7 +169,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2024 18:39:46 UTC
+ Last Updated on 02/09/2024 18:41:02 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
