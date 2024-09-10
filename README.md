@@ -147,7 +147,7 @@ Sunday                   56 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -169,7 +169,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2024 18:42:23 UTC
+ Last Updated on 10/09/2024 18:42:08 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
