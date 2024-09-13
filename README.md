@@ -116,7 +116,7 @@
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -147,13 +147,14 @@ Sunday                   56 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               11 mins             ████████████████████░░░░░   81.85 % 
+C++                      2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -169,7 +170,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2024 18:43:06 UTC
+ Last Updated on 13/09/2024 18:42:09 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
