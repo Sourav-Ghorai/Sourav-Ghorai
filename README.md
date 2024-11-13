@@ -147,17 +147,13 @@ Sunday                   56 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 51 mins       ███████████████████████░░   92.60 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -173,7 +169,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2024 18:42:41 UTC
+ Last Updated on 13/11/2024 18:43:19 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
