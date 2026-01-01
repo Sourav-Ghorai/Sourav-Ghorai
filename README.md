@@ -118,7 +118,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%202%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.09%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -169,7 +169,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:51:45 UTC
+ Last Updated on 01/01/2026 18:52:20 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
